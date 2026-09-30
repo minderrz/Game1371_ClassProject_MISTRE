@@ -2,7 +2,7 @@ using UnityEngine;
 
 // L7 - Comparison, Logic & Conditionals (In-Class Reps)
 // Work through the TODOs. Attach this to an empty GameObject and press Play to test.
-public class L7_Logic_Conditionals_Reps : MonoBehaviour
+public class L7_Logic_Conditionals_Reps_MISTRE : MonoBehaviour
 {
     void Start()
     {
